@@ -1,7 +1,7 @@
 function somaSimples () { //função, receberá o valor da função e retornará o resultado atraves do console.log, e o parametro
     return 3 + 4
 }
-/////
+///////
 console.log(somaSimples()) //faz print da função
 
 function somaComParametro (n1, n2) {
@@ -23,20 +23,6 @@ Potencia(200, 300)
 media >= 6,00 = aprovado
 media >= 4,00 || < 6,00 = recuperação
 media < 4,00 reprovado*/
-
-function mediaAlunos(grade) {
-    if (grade >= 6) {
-        console.log("Aprovado");
-    } else if (grade >= 4 && grade < 6) {
-        console.log("Recuperação");
-    } else {
-        console.log("Reprovado");
-    }
-}
-
-mediaAlunos(9);
-
-//correção
 
 const ResultadoMedia = (n1, n2) => {
     let media = (n1 + n2)/2
