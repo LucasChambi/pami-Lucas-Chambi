@@ -1,6 +1,6 @@
 let palavra01 = "Quero";
 let palavra02 = "Um";
-let palavra03 = "Ingresso pra WWE";
+let palavra03 = "Bolo de Chocolate";
 // Existem varias maneiras de concatenar as variaveis...
 
 // Exemplo 1
@@ -11,7 +11,7 @@ console.log(palavra01 + palavra02 + palavra03);
 
 // Exemplo 3 (em parceria com o amor que tenho pelo curso)
 console.log(`${palavra01} ${palavra02} ${palavra03}
-    \n ♥♥♥♥♥♥♥♥♥♥`);
+    \n ♥♥♥♥♥♥`);
 
 // Exemplo 4
 console.log(palavra01, "um", palavra03);
