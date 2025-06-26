@@ -1,11 +1,11 @@
 console.log("Olá a todos");
 
 // variavel principal
-var msg = "Muito Brawl Stars...";
+var msg = "É muito Briga de Estrelas né?...";
 console.log(msg);
 
 // outra forma de inserir uma variavel
-let resposta = "Saudades do Brawlhalla";
+let resposta = "Tenho saudades do Brawlhalla";
 console.log(resposta);
 
 // uma outra forma de variavel
