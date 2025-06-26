@@ -1,5 +1,5 @@
-let n1 = 200
-let n2 = 401
+let n1 = 11
+let n2 = 11
 
 console.log(n1)
 console.log(n1, n2)
