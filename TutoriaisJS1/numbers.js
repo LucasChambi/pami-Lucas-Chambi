@@ -1,8 +1,10 @@
-let n1 = 11
-let n2 = 11
+let n1 = 20
+let n2 = 20
 
 console.log(n1)
+
 console.log(n1, n2)
+
 console.log(n1 + n2)
 
 let soma = n1 + n2
@@ -22,5 +24,5 @@ console.log(`${n1} ^ ${n2} = ${potencia}`)
 
 console.log(Math.max(n1, n2))
 
-// arredonda para um numero mais alto
+// Arredonda para um numero mais alto
 console.log(Math.round(n1, n2))
